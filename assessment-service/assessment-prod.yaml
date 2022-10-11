@@ -1,0 +1,3 @@
+assessment:
+  service:
+    configs: Write prod assessment service configs here

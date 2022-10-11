@@ -1,0 +1,3 @@
+admin:
+  service:
+    configs: Write prod admin service configs here

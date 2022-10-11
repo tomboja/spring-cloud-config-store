@@ -1,0 +1,3 @@
+registration:
+  service:
+    configs: Write dev registration service configs here

@@ -1,0 +1,3 @@
+registration:
+  service:
+    configs: Write prod registration service configs here

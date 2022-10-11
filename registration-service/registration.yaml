@@ -1,0 +1,3 @@
+registration:
+  service:
+    configs: Write default registration service configs here
