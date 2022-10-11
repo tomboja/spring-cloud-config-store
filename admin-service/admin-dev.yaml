@@ -1,3 +1,8 @@
 admin:
   service:
     configs: Write dev admin service configs here
+
+test:
+  admin:
+    working: yes
+    dev: true
